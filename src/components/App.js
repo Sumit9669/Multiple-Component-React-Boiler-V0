@@ -6,7 +6,7 @@ class App extends Component {
 
         return(
             <>
-                <h1 defaultValue="project- name">ns-test</h1>
+                <button  value="project- name">ns-test</button>
                 <h1 defaultValue="project- description">ns-test</h1>
                
             </>
